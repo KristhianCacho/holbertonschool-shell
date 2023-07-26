@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "alias ls='echo This is not the real ls command. Use another alias for testing.'" >> ~/.bashrc
